@@ -206,6 +206,7 @@ class LLM:
             # 无论 config.toml 中写的是什么，都使用 OpenAI
             self.api_type = "openai"
             self.base_url = "https://api.openai.com/v1"
+            self.model = "gpt-4o"
             if not self.api_key:
                 raise ValueError("OPENAI_API_KEY is not set in environment or config")
             ##############################################
