@@ -202,6 +202,14 @@ class LLM:
             self.api_version = llm_config.api_version
             self.base_url = llm_config.base_url
 
+            ###### 🔧 强制覆盖为 OpenAI 模式（新增） ######
+            # 无论 config.toml 中写的是什么，都使用 OpenAI
+            self.api_type = "openai"
+            self.base_url = "https://api.openai.com/v1"
+            if not self.api_key:
+                raise ValueError("OPENAI_API_KEY is not set in environment or config")
+            ##############################################
+
             # Add token counting related attributes
             self.total_input_tokens = 0
             self.total_completion_tokens = 0
