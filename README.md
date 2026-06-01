@@ -5,6 +5,8 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.11-009688.svg)](https://fastapi.tiangolo.com/)
 [![Deployed on Railway](https://img.shields.io/badge/Deployed%20on-Railway-0B0D0E.svg)](https://railway.app/)
 
+> **📚 Academic Disclaimer:** This project (MovieMind) was developed as part of the coursework for **NUS CS5260 (Neural Networks and Deep Learning)**. The agent product and any associated arXiv paper are entirely derived from work conducted for this course.
+
 MovieMind is an intelligent, conversational AI agent that helps you discover movies through natural dialogue. Unlike traditional keyword search, MovieMind understands your taste, mood, and preferences—just like talking to a knowledgeable movie buff.
 
 **Public Demo URL:** [https://moviemind-production.up.railway.app](https://moviemind-production.up.railway.app)
