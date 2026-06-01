@@ -13,7 +13,7 @@ MovieMind is an intelligent, conversational AI agent that helps you discover mov
 
 Watch MovieMind in action – a quick demo showing natural language movie search, genre recommendations, and detailed metadata retrieval.
 
-<video src="assets/demo.mp4" controls width="100%"></video>
+<video src="assets/vdemo.mp4" controls width="100%"></video>
 
 
 ## ✨ Features
