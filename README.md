@@ -7,7 +7,7 @@
 
 MovieMind is an intelligent, conversational AI agent that helps you discover movies through natural dialogue. Unlike traditional keyword search, MovieMind understands your taste, mood, and preferences—just like talking to a knowledgeable movie buff.
 
-**Live Demo:** [https://moviemind-production.up.railway.app](https://moviemind-production.up.railway.app)
+**Public Demo URL:** [https://moviemind-production.up.railway.app](https://moviemind-production.up.railway.app)
 
 ## 🎥 Demo Video
 
