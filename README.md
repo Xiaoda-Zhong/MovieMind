@@ -9,6 +9,13 @@ MovieMind is an intelligent, conversational AI agent that helps you discover mov
 
 **Live Demo:** [https://moviemind-production.up.railway.app](https://moviemind-production.up.railway.app)
 
+## 🎥 Demo Video
+
+Watch MovieMind in action – a quick demo showing natural language movie search, genre recommendations, and detailed metadata retrieval.
+
+<video src="assets/demo.mp4" controls width="100%"></video>
+
+
 ## ✨ Features
 
 - 🔍 **Search movies by title** – Find any movie quickly and accurately
